@@ -1,31 +1,30 @@
 # Programming-Mobile-Devices
 
-## **Opis:**
-Programming-Mobile-Devices to repozytorium poświęcone programowaniu aplikacji dla urządzeń mobilnych. Znajdziesz tutaj przykładowe projekty, materiały edukacyjne oraz narzędzia związane z tworzeniem oprogramowania dla różnych platform mobilnych.
+## **Description:**
+Programming-Mobile-Devices is a repository dedicated to programming applications for mobile devices. Here you will find example projects, educational materials and tools related to software development for various mobile platforms.
 
-## **Struktura Repozytorium:**
-/Projekty: Ten folder zawiera różne projekty, w których wykorzystuje się programowanie urządzeń mobilnych. Każdy projekt posiada swój własny folder z opisem, plikami projektowymi i kodem źródłowym.
+## **Repository Structure:**
+/Projects: This folder contains various projects where mobile development is used. Each project has its own folder with description, project files and source code.
 
-/Materiały: W tym folderze znajdują się materiały edukacyjne, takie jak tutoriale, dokumentacja i artykuły, które pomogą Ci w programowaniu aplikacji mobilnych.
+/Resources: This folder contains educational materials such as tutorials, documentation, and articles to help you develop mobile apps.
 
-/Narzędzia: Tutaj znajdują się narzędzia programistyczne, frameworki oraz biblioteki, które mogą ułatwić tworzenie aplikacji mobilnych dla różnych platform.
+/Tools: Here you will find development tools, frameworks and libraries that can facilitate the development of mobile applications for various platforms.
 
-## **Jak zacząć:**
+## **How ​​to start:**
 
-Sklonuj repozytorium na swój lokalny komputer:
+Clone the repository to your local computer:
 ```
 git clone https://github.com/dawidolko/Programming-Mobile-Devices.git
 ```
 
-Przeglądaj dostępne projekty, materiały i narzędzia w odpowiednich folderach.
+Browse available projects, materials and tools in their respective folders.
 
-Wykorzystaj dostępne zasoby i narzędzia, aby programować aplikacje dla urządzeń mobilnych.
+Use available resources and tools to develop applications for mobile devices.
 
-## **Wymagania systemowe**
-Aby rozpocząć programowanie aplikacji mobilnych, będziesz potrzebować odpowiednich narzędzi programistycznych i środowisk, takich jak Android Studio dla platformy Android lub Xcode dla platformy iOS. Upewnij się, że masz zainstalowane wymagane oprogramowanie zgodnie z preferencjami i potrzebami projektu.
+## **System requirements**
+To start mobile app development, you'll need the right development tools and environments, such as Android Studio for the Android platform or Xcode for the iOS platform. Make sure you have the required software installed according to your project preferences and needs.
 
-## **Wkład i Wsparcie**
-Jeśli chcesz przyczynić się do tego repozytorium, możesz zgłaszać problemy, tworzyć pull requesty lub udostępniać swoje własne projekty związane z programowaniem urządzeń mobilnych. Wszelkie wkłady są mile widziane!
+## **Contributions and Support**
+If you want to contribute to this repository, you can report issues, create pull requests or share your own mobile development projects. Any contributions are welcome!
 
-Jeśli masz pytania lub potrzebujesz pomocy, skontaktuj się ze mną poprzez e-mail lub przez platformę GitHub.
-
+If you have any questions or need help, please contact me via email or GitHub.
