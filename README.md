@@ -6,9 +6,7 @@ Programming-Mobile-Devices is a repository dedicated to programming applications
 ## **Repository Structure:**
 /Projects: This folder contains various projects where mobile development is used. Each project has its own folder with description, project files and source code.
 
-/Resources: This folder contains educational materials such as tutorials, documentation, and articles to help you develop mobile apps.
-
-/Tools: Here you will find development tools, frameworks and libraries that can facilitate the development of mobile applications for various platforms.
+/Labs: This folder contains educational materials such as tutorials, documentation, and articles to help you develop mobile apps.
 
 ## **How ​​to start:**
 
