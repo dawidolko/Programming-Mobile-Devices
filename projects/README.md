@@ -1,24 +1,24 @@
-# Projekty związane z urządzeniami mobilnymi
-Witaj w świecie projektów związanych z urządzeniami mobilnymi! Ten zbiór projektów oferuje różnorodne i innowacyjne przykłady wykorzystania urządzeń mobilnych, takich jak smartfony i tablety, do rozwiązywania różnych problemów i zaspokajania potrzeb użytkowników. Niezależnie od Twojego poziomu zaawansowania w programowaniu, te projekty będą inspirującym doświadczeniem, które pozwoli Ci zdobyć praktyczną wiedzę związaną z urządzeniami mobilnymi.
+# Projects related to mobile devices
+Welcome to the world of mobile design! This collection of projects offers diverse and innovative examples of using mobile devices such as smartphones and tablets to solve various problems and meet user needs. Regardless of your level of programming advancement, these projects will be an inspiring experience that will allow you to gain practical knowledge related to mobile devices.
 
-## Dlaczego warto uczestniczyć w tych projektach?
-Rozwijanie umiejętności programowania mobilnego: Projekty skupiają się na programowaniu dla systemów mobilnych, takich jak Android i iOS, co pozwoli Ci nauczyć się tworzenia aplikacji mobilnych i rozwijać umiejętności związane z programowaniem na tych platformach.
+## Why is it worth participating in these projects?
+Develop mobile programming skills: Projects focus on programming for mobile systems such as Android and iOS, which will allow you to learn how to develop mobile applications and develop skills related to programming on these platforms.
 
-Zastosowanie w praktyce: Projekty są zaprojektowane tak, aby miały realne zastosowanie i były użyteczne dla użytkowników. Będziesz tworzyć aplikacje, które rozwiązują różne problemy, takie jak organizacja czasu, zdrowie i fitness, zarządzanie finansami, komunikacja, rozrywka i wiele innych.
+Application in practice: Projects are designed to have real applications and be useful to users. You'll create apps that solve a variety of problems such as time management, health and fitness, financial management, communication, entertainment, and more.
 
-Tworzenie interaktywnych i atrakcyjnych interfejsów: W trakcie prac nad projektami nauczymy Cię tworzyć intuicyjne i atrakcyjne interfejsy użytkownika, które są kluczowe dla pozytywnego doświadczenia użytkownika na urządzeniach mobilnych.
+Creating interactive and attractive interfaces: As you work on your projects, we will teach you how to create intuitive and attractive user interfaces, which are crucial for a positive user experience on mobile devices.
 
-Zrozumienie ekosystemu mobilnego: Poznasz unikalne cechy systemów mobilnych, takie jak dostęp do sensorów, GPS, aparatu, możliwości interakcji gestami i wiele innych, co pozwoli Ci lepiej zrozumieć i wykorzystać potencjał urządzeń mobilnych.
+Understanding the mobile ecosystem: You will learn the unique features of mobile systems, such as access to sensors, GPS, camera, gesture interaction capabilities and much more, which will allow you to better understand and use the potential of mobile devices.
 
-## Przykładowe projekty:
-Aplikacja do zarządzania zadaniami: Stwórz aplikację, która pozwala użytkownikom organizować swoje zadania, tworzyć listy, ustawiać przypomnienia i śledzić postęp w wykonywaniu zadań.
+## Sample projects:
+Task Management App: Create an app that allows users to organize their tasks, create lists, set reminders, and track task progress.
 
-Aplikacja zdrowotna: Opracuj aplikację, która pozwala użytkownikom monitorować swoją aktywność fizyczną, dietę, sen i inne parametry zdrowotne, dostarczając im cennych wskazówek i statystyk.
+Health App: Develop an app that allows users to monitor their physical activity, diet, sleep and other health parameters, providing them with valuable tips and statistics.
 
-Aplikacja społecznościowa: Zaimplementuj aplikację, która umożliwia użytkownikom komunikację, dzielenie się treściami i doświadczeniami z innymi użytkownikami, tworząc przyjazne i aktywne społeczności.
+Social App: Implement an app that allows users to communicate, share content and experiences with other users, creating friendly and active communities.
 
-Aplikacja e-commerce: Stwórz aplikację pozwalającą użytkownikom przeglądać i kupować produkty online, zarządzać swoim kontem i płatnościami, co pozwoli im na wygodne i bezpieczne zakupy z urządzenia mobilnego.
+E-commerce app: Create an app that allows users to browse and buy products online, manage their account and payments, allowing them to shop conveniently and securely from their mobile device.
 
-Aplikacja edukacyjna: Opracuj aplikację oferującą interaktywne lekcje, quizy i materiały edukacyjne, które pomogą użytkownikom w nauce i rozwijaniu umiejętności.
+Educational App: Develop an app that offers interactive lessons, quizzes, and educational materials that help users learn and develop skills.
 
-Zapraszamy do uczestnictwa w projektach związanych z urządzeniami mobilnymi i odkrywania potencjału, jaki oferują te nowoczesne platformy do tworzenia praktycznych i innowacyjnych aplikacji! Niech te projekty stanowią inspirację do zdobywania nowych umiejętności i realizacji kreatywnych pomysłów.
+We invite you to participate in projects related to mobile devices and discover the potential that these modern platforms offer for creating practical and innovative applications! Let these projects inspire you to acquire new skills and implement creative ideas.
